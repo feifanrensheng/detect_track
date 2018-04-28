@@ -1,0 +1,5 @@
+/home/zn/detect_tracking/build/CMakeFiles/edit_cache.dir
+/home/zn/detect_tracking/build/CMakeFiles/detect.dir
+/home/zn/detect_tracking/build/CMakeFiles/rebuild_cache.dir
+/home/zn/detect_tracking/build/CMakeFiles/track.dir
+/home/zn/detect_tracking/build/CMakeFiles/detect_track.dir
